@@ -1,0 +1,16 @@
+@media (max-width:1200px) {
+}
+@media (max-width:991px) {
+    #work:before{
+        height: 43%;
+    }
+    .projects-img{
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width:575px) {
+    .hero__content-title{
+        font-size: 36px;
+    }
+}
